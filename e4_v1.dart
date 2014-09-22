@@ -52,7 +52,7 @@ print(years.toString() + " years " + months.toString() + " months " + days.toStr
 //Question 4
 print('');
 print ("Question 4");
-  print('The initial amount and the next 5 years amounts are:');
+  print('The next 5 years amounts are:');
   var r = 1000;
   var s = 0.048;
     for ( var z=1000; z<1300; z++ ){
