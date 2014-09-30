@@ -1,0 +1,25 @@
+ex04
+
+17/20
+
+-1 ou est README.md?
+
+utiliser le formatage correct 
+voir Dart Style Guide
+
+-2 où sont les fonctions autres que main?
+
+Question 4
+The next 5 years amounts are:
+1048.00 dollars
+1098.30 dollars
+1151.02 dollars
+1206.27 dollars
+1264.17 dollars
+1324.85 dollars
+
+1324.85 dollars 
+C'est la sixième année
+
+
+
